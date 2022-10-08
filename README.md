@@ -1,4 +1,4 @@
-## Bem-Vindo!! Me chamo Erik :> - Software Developer| CyberSecurity Student | Ethical Hacker | CTF Player | 
+## Bem-Vindo!! Me chamo Erik :> - Software Developer | CyberSecurity Student 
 
 <div align="center">
   <a href="https://github.com/Eriklux">
