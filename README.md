@@ -1,4 +1,4 @@
-## Bem-Vindo!! Me chamo Erik :> - Software Developer | CyberSecurity Student 
+## Bem-Vindo!! Me chamo Erik :> - Estudante de Segurança Cibernética e Estagiário de Segurança e Infraestrutura da Informação
 
 <div align="center">
   <a href="https://github.com/Im-not-a-Flamme">
@@ -8,14 +8,28 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Im-not-a-Flamme&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-
 <div align="center">
 <br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Segurança Cibernética" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/security/security-plain.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Firewall" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firewall/firewall-plain.svg">
+  <img align="center" alt="Hacking" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hacking/hacking-plain.svg">
+</div>
+
+**Experiência Atual:**
+- Estagiário de Segurança e Infraestrutura da Informação
+
+**Habilidades em Destaque:**
+- Firewalls & IDS/IPS (Firepower, AnyConnect VPN, E-mail Security - Anti-SPAM, Anti-Malware)
+- Cloud Security Solutions: Cisco Umbrella
+- Access & Endpoint Security (Advanced Threat Protection, EPP/EDR/XDR): Cisco Secure Endpoint (AMP), SecureX
+- Network Access Control (NAC): Cisco Identity Services Engine (ISE)
+- Behavior Analytics: Secure Analytics, Secure Cloud Analytics (Stealthwatch EN/Cloud)
+- Secure Workload: Tetration
+- Multi-Factor Authentication (MFA)
+
+<div align="center">
+  <a href="https://tryhackme.com/badge/1254711" target="_blank"><img src="https://tryhackme.com/badge/1254711"></a>
 </div>
   
 <div> 
