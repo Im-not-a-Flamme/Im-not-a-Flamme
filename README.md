@@ -1,4 +1,4 @@
-## Olá, sou Erik 👋 - Estudante de Ethical Hacking e Segurança Cibernética
+## Olá, sou Erik 👋 - Estudante de CyberDefense e trabalho como BlueTeam
 
 ### 👨‍💻 Sobre Mim
 - 👨‍🎓 Atualmente, sou estagiário de Segurança e Infraestrutura da Informação, focando em aprender e aplicar conceitos de segurança cibernética.
