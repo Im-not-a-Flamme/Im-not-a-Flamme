@@ -15,7 +15,7 @@
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Im-not-a-Flamme&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
 ### 🌐 Redes Sociais e Plataformas
-- [![Badge do LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erik-alves-cybersecurity-student-b88685204)
+- [![Badge do LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/erik-alves-cybersecurity-student-b88685204](https://www.linkedin.com/in/erik-alves-cyberdefense-student-b88685204/))
 - [![TryHackMe](https://tryhackme.com/badge/1254711)](https://tryhackme.com/p/SysFlamme)
 
 ### 💬 Entre em Contato
