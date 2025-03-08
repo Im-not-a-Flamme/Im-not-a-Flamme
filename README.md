@@ -1,22 +1,30 @@
-## Olá, sou Erik 👋 - Estudante de CyberDefense e trabalho como BlueTeam
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXhndTVtYTBtMGEzNzRsdmozMzRtM250cHIwY3QyZGdrMXBqN3h0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11zb8pY7ziYZig/giphy.gif" alt="Menu">
+</p>
 
-### 👨‍💻 Sobre Mim
-- 👨‍🎓 Atualmente, sou estagiário de Segurança e Infraestrutura da Informação, focando em aprender e aplicar conceitos de segurança cibernética.
-- 🌐 Estudando e trabalhando com proteção de sistemas, gerenciamento de riscos e eficiência da infraestrutura tecnológica.
+##  Greetings👋 
 
-### 🚀 Habilidades em Destaque
-- 🔒 Firewalls & IDS/IPS (Firepower, AnyConnect VPN, E-mail Security - Anti-SPAM, Anti-Malware)
-- ☁️ Cloud Security Solutions (Cisco Umbrella)
-- 💻 Access & Endpoint Security (Cisco Secure Endpoint - AMP, SecureX)
-- 📡 Network Access Control (Cisco Identity Services Engine - ISE)
-- 📊 Behavior Analytics (Secure Analytics, Stealthwatch EN/Cloud)
+### About me
+- 👨‍🎓 My name is Erik, and I am currently enrolled in the CyberDefense FIAP. I am a member of the Blue Team in my workplace, whose primary objective is to safeguard systems and infrastructures against cyber threats.
 
-### 📈 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Im-not-a-Flamme&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+- 🌐 Presently, I am engaged in an internship in the realm of Information Security and Infrastructure, where I am acquiring knowledge and applying cyber security concepts, with a particular emphasis on systems protection and risk management.
 
-### 🌐 Redes Sociais e Plataformas
-- [![Badge do LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/erik-alves-cybersecurity-student-b88685204](https://www.linkedin.com/in/erik-alves-cyberdefense-student-b88685204/))
-- [![TryHackMe](https://tryhackme.com/badge/1254711)](https://tryhackme.com/p/SysFlamme)
+### Technical Knowledge
+- 🔒 Firewalls & IDS/IPS;
+- ☁️ Cloud Security Solutions;
+- 💻 Access & Endpoint Security (XDR, EDR, Antimalware, Host-based Firewalls.);
+- 📡 Network Analysis: Data collection via Sandboxes and SIEM.
+- 📊 Behavior Analytics;
+- Methodologies: Mitre ATT&CK, Re&ct, and Cyber Kill Chain.
+- 🛡️ Perimeter Controls: Antispam, NAC, WAF, NGFW, IDS/IPS.
+- Automation and Defense: Python scripts for active defense automation.
 
-### 💬 Entre em Contato
-- ✉️ Email: aerik9091@gmail.com
+### 🌍 Languages
+
+- 🇬🇧 **English** (Learning)
+- 🇷🇺 **Русский** (Обучение)
+### 🌐 Contact Information
+- <img src="https://tryhackme-badges.s3.amazonaws.com/SysFlamme.png" alt="Your Image Badge" />
+- **E-mail:** [aerik9091@gmail.com] (mailto:aerik9091@gmail.com)
+- **LinkedIn:** [Redirect](https://www.linkedin.com/in/erik-alves-cyberdefense-student-b88685204/)
+
