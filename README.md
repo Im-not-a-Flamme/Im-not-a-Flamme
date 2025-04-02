@@ -26,5 +26,5 @@
 ### 🌐 Contact Information
 - <img src="https://tryhackme-badges.s3.amazonaws.com/SysFlamme.png" alt="Your Image Badge" />
 - **E-mail:** [aerik9091@gmail.com] (mailto:aerik9091@gmail.com)
-- **LinkedIn:** [Redirect](https://www.linkedin.com/in/erik-alves-cyberdefense-student-b88685204/)
+- **LinkedIn:** [Redirect](https://www.linkedin.com/in/erik-alves-b88685204/)
 
